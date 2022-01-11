@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/benyaminahmed/nft-image-generator#readme",
   "dependencies": {
+    "cids": "^1.1.9",
+    "human-readable-ids": "^1.0.4",
+    "ipfs": "^0.61.0",
+    "ipfs-only-hash": "^4.0.0",
     "node-fetch": "^2.6.1"
   }
 }
